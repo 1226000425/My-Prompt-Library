@@ -12,7 +12,7 @@ A curated collection of pratical prompts for research,coding,learning,and produc
  ## Quick Start
  Choose a prompt → Copy it → Run it
  
- ## 📂 Prompt Collection
+ ## Prompt Collection
 
 | Category | Prompt | Description |
 |---|---|---|
